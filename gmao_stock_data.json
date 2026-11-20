@@ -1,0 +1,21 @@
+[
+  {
+    "designation": "ROULEMENT",
+    "reference": "6003-2RS",
+    "machine": "ALFIERI",
+    "emplacement": "B4",
+    "fournisseur": "BOUDRAN",
+    "typePiece": "Original",
+    "quantite": 1,
+    "unite": "pcs",
+    "seuilMin": 2,
+    "prixUnitaire": 45.0,
+    "prixTotal": 450.0,
+    "createdAt": 1795158753102,
+    "id": "part_1795158753102",
+    "devise": "TND",
+    "photoPath": "",
+    "photoBase64": "",
+    "updatedAt": 1795162884148
+  }
+]

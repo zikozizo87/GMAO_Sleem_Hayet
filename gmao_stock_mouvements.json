@@ -1,0 +1,15 @@
+[
+  {
+    "partId": "",
+    "reference": "6003-2RS",
+    "designation": "ROULEMENT",
+    "type": "INITIALISATION",
+    "quantite": 10,
+    "stockAvant": 0,
+    "stockApres": 10,
+    "motif": "Création nouvel article",
+    "acteur": "Responsable Magasin",
+    "createdAt": 1795158753104,
+    "dateHeure": "2026-11-20 08:12"
+  }
+]
